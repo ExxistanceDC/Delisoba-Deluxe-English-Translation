@@ -10,7 +10,7 @@ This patch was created to continuing growing my Saturn romhacking skills, as wel
 
 - Title screen redrawn
 - New English font tiles
-- Options menu translated
+- Options menu translated & background redrawn
 - Pause menu translated
 - All map editor menus & elements translated
 

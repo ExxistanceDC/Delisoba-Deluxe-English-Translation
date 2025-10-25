@@ -17,6 +17,22 @@ This patch was created to continuing growing my Saturn romhacking skills, as wel
 ## **Screens**
 
 <!-- Row 1 -->
+<p>
+  <img src="Images/Delisoba Deluxe (Japan)-251025-165724.png" width="500"/>
+  <img src="Images/Delisoba Deluxe (Japan)-251025-165806.png" width="500"/>
+</p>
+
+<!-- Row 2 -->
+<p>
+  <img src="Images/Delisoba Deluxe (Japan)-251025-165854.png" width="500"/>
+  <img src="Images/Delisoba Deluxe (Japan)-251025-165835.png" width="500"/>
+</p>
+
+<!-- Row 3 -->
+<p>
+  <img src="Images/Delisoba Deluxe (Japan)-251025-170412.png" width="500"/>
+</p>
+
 
 ## **Patching Instructions**
 

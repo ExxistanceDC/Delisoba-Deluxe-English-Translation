@@ -48,3 +48,20 @@ This patch was created to continuing growing my Saturn romhacking skills, as wel
 
 **--> Important! <--**
 - Tested with Delisoba Deluxe (Japan)
+
+## **Credits**
+
+**Translation**
+- Exxistance
+
+**Texture Art**
+- Exxistance
+
+**QA**
+- Exxistance
+
+**Special Thanks**
+- Moggi (who graciously provided a high-res scan of the Japanese game cover)
+- VGEsoterica (whose video inspired me to do this)
+
+

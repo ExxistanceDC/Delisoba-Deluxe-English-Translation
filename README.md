@@ -6,7 +6,7 @@ The game is known as the rarest Sega Saturn game as it was (apparently) only giv
 With this small translation, that means I've brought the two rarest Saturn games to English. **Heey-yo!** Feels good.
 
 ## **Overview**
-This patch was created to continuing growing my Saturn romhacking skills, as well as serve as nice distraction from a couple other projects I'm cooking up. To that end, the following changes have been implemented:
+This patch was created to continue growing my Saturn romhacking skills, as well as serve as nice distraction from a couple other projects I'm cooking up. To that end, the following changes have been implemented:
 
 - Title screen redrawn
 - New English font tiles
@@ -36,11 +36,11 @@ This patch was created to continuing growing my Saturn romhacking skills, as wel
 
 ## **Patching Instructions**
 
-1. Unzip patch bundle
+1. Download SegaSaturnPatcher <a href=https://segaxtreme.net/threads/sega-saturn-patcher-discussion-thread.24721/>here. (Current version is V1.91)
 2. Open **'SegaSaturnPatcher.exe'**
 3. After it opens, click **'Select Saturn Game'**
 4. Next click **'CD Image'**
-5. Find your original disc image on your computer, then click **'Open'**
+5. Find your original Delisoba Deluxe disc image on your computer, then click **'Open'**
 6. Click the **'+ Game Patch (SSP)'** button
 7. Select the .ssp patch and click **'Open'**
 8. Finally, select **'Build Image'** and choose a directory to save it to
@@ -62,6 +62,6 @@ This patch was created to continuing growing my Saturn romhacking skills, as wel
 
 **Special Thanks**
 - Moggi (who graciously provided a high-res scan of the Japanese game cover)
-- VGEsoterica (whose video inspired me to do this)
+- Video Game Esoterica (whose video inspired me to do this)
 
 

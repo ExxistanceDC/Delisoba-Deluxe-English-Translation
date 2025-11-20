@@ -36,7 +36,7 @@ This patch was created to continue growing my Saturn romhacking skills, as well 
 
 ## **Patching Instructions**
 
-1. Download SegaSaturnPatcher <a href=https://segaxtreme.net/threads/sega-saturn-patcher-discussion-thread.24721/>here. (Current version is V1.91)
+1. Download SegaSaturnPatcher <a href=https://segaxtreme.net/threads/sega-saturn-patcher-discussion-thread.24721/>here</a>. (Current version is V1.91)
 2. Open **'SegaSaturnPatcher.exe'**
 3. After it opens, click **'Select Saturn Game'**
 4. Next click **'CD Image'**

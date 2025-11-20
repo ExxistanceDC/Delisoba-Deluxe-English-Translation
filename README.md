@@ -47,7 +47,7 @@ This patch was created to continue growing my Saturn romhacking skills, as well 
 9. Burn to disc and play in your Sega Saturn, or play in your favorite Sega Saturn emulator
 
 **--> Important! <--**
-- Tested with Delisoba Deluxe (Japan)
+- Tested with <kbd>Delisoba Deluxe (Japan)</kbd>
 
 ## **Credits**
 

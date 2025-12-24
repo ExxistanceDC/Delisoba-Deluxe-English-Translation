@@ -36,15 +36,29 @@ This patch was created to continue growing my Saturn romhacking skills, as well 
 
 ## **Patching Instructions**
 
-1. Download SegaSaturnPatcher <a href=https://segaxtreme.net/threads/sega-saturn-patcher-discussion-thread.24721/>here</a>. (Current version is V1.91)
-2. Open **'SegaSaturnPatcher.exe'**
+The patch comes in two flavors: a Sega Saturn Patcher .ssp or an XDelta .xdelta file. 
+
+### Sega Saturn Patcher Instruction ###
+
+1. Unzip patch bundle
+2. Open **'SegaSaturnPatcher.exe'** (It can be downloaded <a href=https://segaxtreme.net/threads/sega-saturn-patcher-discussion-thread.24721/>here</a>. The most current version is V1.91)
 3. After it opens, click **'Select Saturn Game'**
 4. Next click **'CD Image'**
-5. Find your original Delisoba Deluxe disc image on your computer, then click **'Open'**
+5. Find your original disc image on your computer, then click **'Open'**
 6. Click the **'+ Game Patch (SSP)'** button
-7. Select the .ssp patch and click **'Open'**
+7. Go to where you unzipped the patch bundle and locate <kbd>DELISOBADELUXE vX.X.ssp</kbd> and click **'Open'**
 8. Finally, select **'Build Image'** and choose a directory to save it to
-9. Burn to disc and play in your Sega Saturn, or play in your favorite Sega Saturn emulator
+9. Burn to disc and play in your Sega Saturn or play in your favorite Sega Saturn emulator
+
+### XDelta Instructions ###
+
+1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
+2. Unzip patch bundle
+3. Open **'DeltaPatcher.exe'**
+4. For the Original File, locate Track 01 of the original Willy Wombat disc (for example: <kbd>Delisoba Deluxe (Japan) (Track 1).bin</kbd>)
+5. Locate the <kbd>Delisoba_Deluxe_English_vX.X.xdelta</kbd>
+6. Click **'Apply Patch'**
+7. If successful, Track 01 will be replaced with the patched track.
 
 **--> Important! <--**
 - Tested with <kbd>Delisoba Deluxe (Japan)</kbd>

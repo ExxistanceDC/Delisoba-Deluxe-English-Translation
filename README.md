@@ -76,6 +76,6 @@ The patch comes in two flavors: a Sega Saturn Patcher .ssp or an XDelta .xdelta 
 
 **Special Thanks**
 - Moggi (who graciously provided a high-res scan of the Japanese game cover)
-- Video Game Esoterica (whose video inspired me to do this)
+- <a href='https://www.youtube.com/@VideoGameEsoterica'>Video Game Esoterica</a> (whose video inspired me to do this)
 
 

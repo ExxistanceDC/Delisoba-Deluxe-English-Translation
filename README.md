@@ -55,7 +55,7 @@ The patch comes in two flavors: a Sega Saturn Patcher .ssp or an XDelta .xdelta 
 1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
 2. Unzip patch bundle
 3. Open **'DeltaPatcher.exe'**
-4. For the Original File, locate Track 01 of the original Willy Wombat disc (for example: <kbd>Delisoba Deluxe (Japan) (Track 1).bin</kbd>)
+4. For the Original File, locate Track 01 of the original Delisoba Deluxe disc (for example: <kbd>Delisoba Deluxe (Japan) (Track 1).bin</kbd>)
 5. Locate the <kbd>Delisoba_Deluxe_English_vX.X.xdelta</kbd>
 6. Click **'Apply Patch'**
 7. If successful, Track 01 will be replaced with the patched track.
